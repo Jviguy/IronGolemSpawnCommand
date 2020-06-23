@@ -1,0 +1,9 @@
+---
+name: irongolemspawn
+version: 0.0.1
+main: JviguyGamesYT\irongolemspawn\Main
+api: 3.13.0
+commands:
+  irongolem:
+    description: "Spawns A Iron Golem At your position"
+...
